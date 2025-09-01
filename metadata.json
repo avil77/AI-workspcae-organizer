@@ -1,0 +1,5 @@
+{
+  "name": "Google Workspace Organizer AI",
+  "description": "An AI-powered assistant to analyze Hebrew text and create Google Calendar events and Google Tasks. Paste your notes, and let the AI organize your schedule for you.",
+  "requestFramePermissions": []
+}
